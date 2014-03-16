@@ -7,7 +7,7 @@ directory it will get automatically loaded (next time you start node).
 
 Install by running:
 ```
-npm install route-loader --save
+npm install express-route-loader --save
 ```
 
 Default loads all *.js files in the /routes/ directory (and child directories).
