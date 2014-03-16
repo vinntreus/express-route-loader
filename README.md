@@ -1,7 +1,14 @@
 route-loader
 ============
 
-Loads expressjs routes from a specified folder
+Loads expressjs routes from a specified folder. The key benefit to this
+is that you don't have to define each and every route in eg. app.js. Just tell expressjs to load all routes and when adding a new file in your routes
+directory it will get automatically loaded (next time you start node).
+
+Install by running:
+```
+npm install route-loader --save
+```
 
 Default loads all *.js files in the /routes/ directory (and child directories).
 
