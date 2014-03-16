@@ -5,10 +5,21 @@
   "description": "Loads expressjs routes from a specified folder",
 
   "main" : "index.js",
+  "license" : "MIT",
+  "homepage" : "https://github.com/vinntreus/route-loader",
+  "bugs" : {
+    "url": "https://github.com/vinntreus/route-loader/issues"
+  },
+  "keywords" : ["route", "load", "expressjs"],
 
-  "author": {
-    "name":  "Daniel Vinntreus",
-    "email": "gudski@gmail.com",
-    "url":   "http://www.vinntreus.com"
+  "engine" : {
+    "node" : ">=0.10.24"
+  },
+
+  "author": { "name" : "Daniel Vinntreus" },
+
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/vinntreus/route-loader.git"
   }
 }
