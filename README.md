@@ -1,4 +1,4 @@
-route-loader
+express-route-loader
 ============
 
 Loads expressjs routes from a specified folder. The key benefit to this
@@ -19,7 +19,7 @@ Usage:
 var express = require('express'),
     app = express(),
     db = require("some-cool-db")
-    routeLoader = require('route-loader');
+    routeLoader = require('express-route-loader');
 
 routeLoader.load(app, db);
 ```

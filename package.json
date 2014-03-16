@@ -1,5 +1,5 @@
 {
-  "name":     "route-loader",
+  "name":     "express-route-loader",
   "version":  "0.0.1",
   "homepage": "https://github.com/vinntreus/route-loader",
   "description": "Loads expressjs routes from a specified folder",
@@ -10,7 +10,7 @@
   "bugs" : {
     "url": "https://github.com/vinntreus/route-loader/issues"
   },
-  "keywords" : ["route", "load", "expressjs"],
+  "keywords" : ["route", "load", "expressjs", "auto"],
 
   "engine" : {
     "node" : ">=0.10.24"
