@@ -1,14 +1,14 @@
 {
   "name":     "express-route-loader",
   "version":  "0.0.1",
-  "homepage": "https://github.com/vinntreus/route-loader",
+  "homepage": "https://github.com/vinntreus/express-route-loader",
   "description": "Loads expressjs routes from a specified folder",
 
   "main" : "index.js",
   "license" : "MIT",
-  "homepage" : "https://github.com/vinntreus/route-loader",
+
   "bugs" : {
-    "url": "https://github.com/vinntreus/route-loader/issues"
+    "url": "https://github.com/vinntreus/express-route-loader/issues"
   },
   "keywords" : ["route", "load", "expressjs", "auto"],
 
@@ -20,6 +20,6 @@
 
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/vinntreus/route-loader.git"
+    "url" : "https://github.com/vinntreus/express-route-loader.git"
   }
 }
