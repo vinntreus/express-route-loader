@@ -35,7 +35,7 @@ module.exports = function(app, db){
 
 To display routes found and loaded:
 ```
-routeLoader.enableLogging(true); //call this before load
+routeLoader.enableLogging(); //call this before load
 routeLoader.load(app, db);
 ```
 
