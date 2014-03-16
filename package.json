@@ -1,0 +1,14 @@
+{
+  "name":     "route-loader",
+  "version":  "0.0.1",
+  "homepage": "https://github.com/vinntreus/route-loader",
+  "description": "Loads expressjs routes from a specified folder",
+
+  "main" : "index.js",
+
+  "author": {
+    "name":  "Daniel Vinntreus",
+    "email": "gudski@gmail.com",
+    "url":   "http://www.vinntreus.com"
+  }
+}
